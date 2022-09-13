@@ -1,0 +1,3 @@
+C:/Users/duyang/Desktop/DEMO/cmake-build-debug/CMakeFiles/DEMO.elf.dir
+C:/Users/duyang/Desktop/DEMO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/duyang/Desktop/DEMO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
